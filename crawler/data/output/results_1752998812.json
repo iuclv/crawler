@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Pytophthora Fruit Rot",
+    "input_images": [
+      "https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20187800447/asset/adf588d2-f754-4626-b863-a5cab63e39ad/assets/graphic/phytophthora-on-durian-global-1.jpg"
+    ],
+    "results": [],
+    "processing_time": 3.3494505882263184,
+    "total_similar_found": 0,
+    "errors": [
+      "Failed to process: https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20187800447/asset/adf588d2-f754-4626-b863-a5cab63e39ad/assets/graphic/phytophthora-on-durian-global-1.jpg"
+    ]
+  }
+]

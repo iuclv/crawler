@@ -1,0 +1,15 @@
+2025-07-20 15:06:49,132 - __main__ - INFO - Loading data from data.json
+2025-07-20 15:06:49,133 - __main__ - INFO - Successfully loaded 1 categories
+2025-07-20 15:06:49,133 - __main__ - INFO - Starting processing of 1 categories
+2025-07-20 15:06:49,133 - __main__ - INFO - Processing category 1/1: Pytophthora Fruit Rot
+2025-07-20 15:06:49,133 - __main__ - INFO - Processing category: Pytophthora Fruit Rot (1 images)
+2025-07-20 15:06:49,134 - __main__ - INFO - Processing image 1/1 in Pytophthora Fruit Rot: https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20187800447/asset/adf588d2-f754-4626-b863-a5cab63e39ad/assets/graphic/phytophthora-on-durian-global-1.jpg
+2025-07-20 15:06:49,351 - src.image_downloader - ERROR - Error downloading https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20187800447/asset/adf588d2-f754-4626-b863-a5cab63e39ad/assets/graphic/phytophthora-on-durian-global-1.jpg (attempt 1): Cannot connect to host plantwiseplusknowledgebank.org:443 ssl:default [getaddrinfo failed]
+2025-07-20 15:06:50,419 - src.image_downloader - ERROR - Error downloading https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20187800447/asset/adf588d2-f754-4626-b863-a5cab63e39ad/assets/graphic/phytophthora-on-durian-global-1.jpg (attempt 2): Cannot connect to host plantwiseplusknowledgebank.org:443 ssl:default [getaddrinfo failed]
+2025-07-20 15:06:52,482 - src.image_downloader - ERROR - Error downloading https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20187800447/asset/adf588d2-f754-4626-b863-a5cab63e39ad/assets/graphic/phytophthora-on-durian-global-1.jpg (attempt 3): Cannot connect to host plantwiseplusknowledgebank.org:443 ssl:default [getaddrinfo failed]
+2025-07-20 15:06:52,482 - src.image_downloader - ERROR - Failed to download image after 3 attempts: https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20187800447/asset/adf588d2-f754-4626-b863-a5cab63e39ad/assets/graphic/phytophthora-on-durian-global-1.jpg
+2025-07-20 15:06:52,483 - __main__ - ERROR - Failed to download image: https://plantwiseplusknowledgebank.org/cms/10.1079/pwkb.20187800447/asset/adf588d2-f754-4626-b863-a5cab63e39ad/assets/graphic/phytophthora-on-durian-global-1.jpg
+2025-07-20 15:06:52,483 - __main__ - INFO - Completed category Pytophthora Fruit Rot: 0 processed, 0 similar images found
+2025-07-20 15:06:52,483 - __main__ - INFO - Completed processing all categories in 3.35s. Total similar images found: 0
+2025-07-20 15:06:52,488 - __main__ - INFO - Results saved to: data\output\results_1752998812.json
+2025-07-20 15:06:52,488 - __main__ - INFO - Processing completed successfully
