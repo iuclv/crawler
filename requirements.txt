@@ -10,8 +10,8 @@ opencv-python>=4.6.0
 imagehash>=4.3.0
 
 # Machine learning (for future similarity detection)
-torch>=1.12.0
-torchvision>=0.13.0
+torch==2.7.1
+torchvision==0.22.1
 transformers>=4.20.0
 clip-by-openai>=1.0
 
